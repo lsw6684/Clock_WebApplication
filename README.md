@@ -9,4 +9,4 @@ There is no jQuery or Framework but JavaScript.
 - [x] Offline Support
 
 ### Check this out
-![alt text](readme.PNG=250x) 
+![alt text](readme.PNG) 
