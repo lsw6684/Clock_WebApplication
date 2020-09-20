@@ -8,5 +8,5 @@ There is no jQuery or Framework but JavaScript.
 - [x] Daily Photo
 - [x] Offline Support
 
-###Check this out
+### Check this out
 ![alt text](readme.PNG) 
